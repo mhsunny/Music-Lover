@@ -1,8 +1,5 @@
 # Music-Lover
-
-
-
-
+This is a music app using react.js. You can listen any song from the audio track. It uses spotify api to get the track list of any artist when user search from the application.
 
 
 <pre>

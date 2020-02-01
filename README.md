@@ -1,10 +1,9 @@
 # Music-Lover
 This is a music app using react.js. You can listen any song from the audio track. It uses spotify api to get the track list of any artist when user search from the application.
 
-#Demo 
-https://music-lover-97916.firebaseapp.com/
-#Source Code
-https://github.com/mhsunny/Music-Lover/e
+#Demo https://music-lover-97916.firebaseapp.com/
+
+#Source Code https://github.com/mhsunny/Music-Lover/e
 
 
 <pre>
